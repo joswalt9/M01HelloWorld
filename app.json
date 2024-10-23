@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "M01HelloWorld",
+    "slug": "M01HelloWorld",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
